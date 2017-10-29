@@ -1,0 +1,1237 @@
+[
+  {
+    "reload": false, 
+    "folder": "weather-data-analysis", 
+    "submissions": [
+      {
+        "files": [
+          "albakr_majed_climate analysis.pdf"
+        ], 
+        "team_name": "majed albakr", 
+        "thumbnail": "thumbnails/albakr_majed.png", 
+        "team": [
+          {
+            "family_name": "albakr", 
+            "email": "malbakr@design.upenn.edu", 
+            "id": "0", 
+            "name": "majed"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "benghi_niccolo_los angeles_rev.02.pdf"
+        ], 
+        "team_name": "niccolo benghi", 
+        "thumbnail": "thumbnails/benghi_niccolo.png", 
+        "team": [
+          {
+            "family_name": "benghi", 
+            "email": "nbenghi@design.upenn.edu", 
+            "id": "2", 
+            "name": "niccolo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "bhatti_munazza_climate report.pdf"
+        ], 
+        "team_name": "munazza bhatti", 
+        "thumbnail": "thumbnails/bhatti_munazza.png", 
+        "team": [
+          {
+            "family_name": "bhatti", 
+            "email": "munazza@design.upenn.edu", 
+            "id": "3", 
+            "name": "munazza"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "fang_cai_assignment2.pdf"
+        ], 
+        "team_name": "cai fang", 
+        "thumbnail": "thumbnails/fang_cai.png", 
+        "team": [
+          {
+            "family_name": "fang", 
+            "email": "caifang@design.upenn.edu", 
+            "id": "4", 
+            "name": "cai"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jin_jaeho_new york city.pdf"
+        ], 
+        "team_name": "jaeho jin", 
+        "thumbnail": "thumbnails/jin_jaeho.png", 
+        "team": [
+          {
+            "family_name": "jin", 
+            "email": "jinjaeho@design.upenn.edu", 
+            "id": "6", 
+            "name": "jaeho"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "maheshwari_rajika_climateanalysis_final.pdf"
+        ], 
+        "team_name": "rajika maheshwari", 
+        "thumbnail": "thumbnails/maheshwari_rajika.png", 
+        "team": [
+          {
+            "family_name": "maheshwari", 
+            "email": "rajika@design.upenn.edu", 
+            "id": "11", 
+            "name": "rajika"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "peng_mingbo_climate analysis.pdf"
+        ], 
+        "team_name": "mingbo peng", 
+        "thumbnail": "thumbnails/peng_mingbo.png", 
+        "team": [
+          {
+            "family_name": "peng", 
+            "email": "mpen@design.upenn.edu", 
+            "id": "14", 
+            "name": "mingbo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "rong_shengliang_kular lumpur.pdf"
+        ], 
+        "team_name": "shengliang rong", 
+        "thumbnail": "thumbnails/rong_shengliang.png", 
+        "team": [
+          {
+            "family_name": "rong", 
+            "email": "srong@design.upenn.edu", 
+            "id": "15", 
+            "name": "shengliang"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "yao_xi_mexicocity.pdf"
+        ], 
+        "team_name": "xi yao", 
+        "thumbnail": "thumbnails/yao_xi.png", 
+        "team": [
+          {
+            "family_name": "yao", 
+            "email": "xiyao@design.upenn.edu", 
+            "id": "17", 
+            "name": "xi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "wan_yuntian_bps_draft2.pdf", 
+          "wan_yuntian_bps_radiation.pdf"
+        ], 
+        "team_name": "yuntian wan", 
+        "thumbnail": "thumbnails/wan_yuntian.png", 
+        "team": [
+          {
+            "family_name": "wan", 
+            "email": "wyuntian@design.upenn.edu", 
+            "id": "18", 
+            "name": "yuntian"
+          }
+        ]
+      }
+    ], 
+    "name": "Weather data analysis", 
+    "is_group_project": false
+  }, 
+  {
+    "reload": false, 
+    "folder": "meyerson-hall-canopy", 
+    "submissions": [
+      {
+        "files": [
+          "albakr_majed_shading.pdf"
+        ], 
+        "team_name": "majed albakr", 
+        "thumbnail": "thumbnails/albakr_majed.png", 
+        "team": [
+          {
+            "family_name": "albakr", 
+            "email": "malbakr@design.upenn.edu", 
+            "id": "0", 
+            "name": "majed"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "benghi_niccolo_shade_gh.gh", 
+          "benghi_niccolo_shade_presentation.pdf", 
+          "benghi_niccolo_shade_rhino.3dm"
+        ], 
+        "team_name": "niccolo benghi", 
+        "thumbnail": "thumbnails/benghi_niccolo.png", 
+        "team": [
+          {
+            "family_name": "benghi", 
+            "email": "nbenghi@design.upenn.edu", 
+            "id": "2", 
+            "name": "niccolo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "bhatti_munazza_10.11_meyersonshading.pdf"
+        ], 
+        "team_name": "munazza bhatti", 
+        "thumbnail": "thumbnails/bhatti_munazza.png", 
+        "team": [
+          {
+            "family_name": "bhatti", 
+            "email": "munazza@design.upenn.edu", 
+            "id": "3", 
+            "name": "munazza"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jin_jaeho_meyerson-shade.3dm", 
+          "jin_jaeho_meyerson-shade.gh", 
+          "jin_jaeho_meyerson-shade.pdf"
+        ], 
+        "team_name": "jaeho jin", 
+        "thumbnail": "thumbnails/jin_jaeho.png", 
+        "team": [
+          {
+            "family_name": "jin", 
+            "email": "jinjaeho@design.upenn.edu", 
+            "id": "6", 
+            "name": "jaeho"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "peng_mingbo_shade benefit_2.pdf"
+        ], 
+        "team_name": "mingbo peng", 
+        "thumbnail": "thumbnails/peng_mingbo.png", 
+        "team": [
+          {
+            "family_name": "peng", 
+            "email": "mpen@design.upenn.edu", 
+            "id": "14", 
+            "name": "mingbo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "rong_shengliang_shading exercise v1.pdf"
+        ], 
+        "team_name": "shengliang rong", 
+        "thumbnail": "thumbnails/rong_shengliang.png", 
+        "team": [
+          {
+            "family_name": "rong", 
+            "email": "srong@design.upenn.edu", 
+            "id": "15", 
+            "name": "shengliang"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "vyas_janki_shading design_meyerson.3dm", 
+          "vyas_janki_shading design_meyerson_r1.pdf", 
+          "vyas_janki_shading design_meyerson_r1_version1.gh", 
+          "vyas_janki_shading design_meyerson_r1_version2.gh"
+        ], 
+        "team_name": "janki vyas", 
+        "thumbnail": "thumbnails/vyas_janki.png", 
+        "team": [
+          {
+            "family_name": "vyas", 
+            "email": "jankiv@design.upenn.edu", 
+            "id": "16", 
+            "name": "janki"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "yao_xi_shading.gh", 
+          "yao_xi_shading.pdf"
+        ], 
+        "team_name": "xi yao", 
+        "thumbnail": "thumbnails/yao_xi.png", 
+        "team": [
+          {
+            "family_name": "yao", 
+            "email": "xiyao@design.upenn.edu", 
+            "id": "17", 
+            "name": "xi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "wan_yuntian_shading.pdf"
+        ], 
+        "team_name": "yuntian wan", 
+        "thumbnail": "thumbnails/wan_yuntian.png", 
+        "team": [
+          {
+            "family_name": "wan", 
+            "email": "wyuntian@design.upenn.edu", 
+            "id": "18", 
+            "name": "yuntian"
+          }
+        ]
+      }
+    ], 
+    "name": "Meyerson hall canopy", 
+    "is_group_project": false
+  }, 
+  {
+    "reload": false, 
+    "folder": "daylighting-I", 
+    "submissions": [
+      {
+        "files": [
+          "albakr_majed.pdf"
+        ], 
+        "team_name": "majed albakr", 
+        "thumbnail": "thumbnails/albakr_majed.png", 
+        "team": [
+          {
+            "family_name": "albakr", 
+            "email": "malbakr@design.upenn.edu", 
+            "id": "0", 
+            "name": "majed"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "benghi_niccolo.pdf"
+        ], 
+        "team_name": "niccolo benghi", 
+        "thumbnail": "thumbnails/benghi_niccolo.png", 
+        "team": [
+          {
+            "family_name": "benghi", 
+            "email": "nbenghi@design.upenn.edu", 
+            "id": "2", 
+            "name": "niccolo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "bhatti_munazza.pdf"
+        ], 
+        "team_name": "munazza bhatti", 
+        "thumbnail": "thumbnails/bhatti_munazza.png", 
+        "team": [
+          {
+            "family_name": "bhatti", 
+            "email": "munazza@design.upenn.edu", 
+            "id": "3", 
+            "name": "munazza"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jang_keun-hyuk.pdf"
+        ], 
+        "team_name": "keun-hyuk jang", 
+        "thumbnail": "thumbnails/jang_keun-hyuk.png", 
+        "team": [
+          {
+            "family_name": "jang", 
+            "email": "keunj@design.upenn.edu", 
+            "id": "5", 
+            "name": "keun-hyuk"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jin_jaeho_assignment 1012_daylighting.pdf"
+        ], 
+        "team_name": "jaeho jin", 
+        "thumbnail": "thumbnails/jin_jaeho.png", 
+        "team": [
+          {
+            "family_name": "jin", 
+            "email": "jinjaeho@design.upenn.edu", 
+            "id": "6", 
+            "name": "jaeho"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "khemchandani_ashish.pdf"
+        ], 
+        "team_name": "ashish khemchandani", 
+        "thumbnail": "thumbnails/khemchandani_ashish.png", 
+        "team": [
+          {
+            "family_name": "khemchandani", 
+            "email": "ashishkh@design.upenn.edu", 
+            "id": "7", 
+            "name": "ashish"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "knyazkina_ksenia.pdf"
+        ], 
+        "team_name": "ksenia knyazkina", 
+        "thumbnail": "thumbnails/knyazkina_ksenia.png", 
+        "team": [
+          {
+            "family_name": "knyazkina", 
+            "email": "kksenia@design.upenn.edu", 
+            "id": "8", 
+            "name": "ksenia"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "kwan_shin-yi.pdf"
+        ], 
+        "team_name": "shin-yi kwan", 
+        "thumbnail": "thumbnails/kwan_shin-yi.png", 
+        "team": [
+          {
+            "family_name": "kwan", 
+            "email": "kwans@design.upenn.edu", 
+            "id": "9", 
+            "name": "shin-yi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "lee_jee-eun.pdf"
+        ], 
+        "team_name": "jee-eun lee", 
+        "thumbnail": "thumbnails/lee_jee-eun.png", 
+        "team": [
+          {
+            "family_name": "lee", 
+            "email": "leejee@design.upenn.edu", 
+            "id": "10", 
+            "name": "jee-eun"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "maheshwari_rajika.pdf"
+        ], 
+        "team_name": "rajika maheshwari", 
+        "thumbnail": "thumbnails/maheshwari_rajika.png", 
+        "team": [
+          {
+            "family_name": "maheshwari", 
+            "email": "rajika@design.upenn.edu", 
+            "id": "11", 
+            "name": "rajika"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "mahthur_pegah.pdf"
+        ], 
+        "team_name": "pegah mahthur", 
+        "thumbnail": "thumbnails/mahthur_pegah.png", 
+        "team": [
+          {
+            "family_name": "mahthur", 
+            "email": "pegahmathur@gmail.com", 
+            "id": "12", 
+            "name": "pegah"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "peng_mingbo.pdf"
+        ], 
+        "team_name": "mingbo peng", 
+        "thumbnail": "thumbnails/peng_mingbo.png", 
+        "team": [
+          {
+            "family_name": "peng", 
+            "email": "mpen@design.upenn.edu", 
+            "id": "14", 
+            "name": "mingbo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "rong_shengliang.pdf"
+        ], 
+        "team_name": "shengliang rong", 
+        "thumbnail": "thumbnails/rong_shengliang.png", 
+        "team": [
+          {
+            "family_name": "rong", 
+            "email": "srong@design.upenn.edu", 
+            "id": "15", 
+            "name": "shengliang"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "vyas_janki.pdf"
+        ], 
+        "team_name": "janki vyas", 
+        "thumbnail": "thumbnails/vyas_janki.png", 
+        "team": [
+          {
+            "family_name": "vyas", 
+            "email": "jankiv@design.upenn.edu", 
+            "id": "16", 
+            "name": "janki"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "yao_xi.pdf"
+        ], 
+        "team_name": "xi yao", 
+        "thumbnail": "thumbnails/yao_xi.png", 
+        "team": [
+          {
+            "family_name": "yao", 
+            "email": "xiyao@design.upenn.edu", 
+            "id": "17", 
+            "name": "xi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "wan_yuntian.pdf"
+        ], 
+        "team_name": "yuntian wan", 
+        "thumbnail": "thumbnails/wan_yuntian.png", 
+        "team": [
+          {
+            "family_name": "wan", 
+            "email": "wyuntian@design.upenn.edu", 
+            "id": "18", 
+            "name": "yuntian"
+          }
+        ]
+      }
+    ], 
+    "name": "Daylighting I", 
+    "is_group_project": false
+  }, 
+  {
+    "reload": false, 
+    "folder": "daylighting-II", 
+    "submissions": [
+      {
+        "files": [
+          "albakr_majed.pdf"
+        ], 
+        "team_name": "majed albakr", 
+        "thumbnail": "thumbnails/albakr_majed.png", 
+        "team": [
+          {
+            "family_name": "albakr", 
+            "email": "malbakr@design.upenn.edu", 
+            "id": "0", 
+            "name": "majed"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "benghi_niccolo.pdf"
+        ], 
+        "team_name": "niccolo benghi", 
+        "thumbnail": "thumbnails/benghi_niccolo.png", 
+        "team": [
+          {
+            "family_name": "benghi", 
+            "email": "nbenghi@design.upenn.edu", 
+            "id": "2", 
+            "name": "niccolo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "bhatti_munazza.pdf"
+        ], 
+        "team_name": "munazza bhatti", 
+        "thumbnail": "thumbnails/bhatti_munazza.png", 
+        "team": [
+          {
+            "family_name": "bhatti", 
+            "email": "munazza@design.upenn.edu", 
+            "id": "3", 
+            "name": "munazza"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jang_keun-hyuk.pdf"
+        ], 
+        "team_name": "keun-hyuk jang", 
+        "thumbnail": "thumbnails/jang_keun-hyuk.png", 
+        "team": [
+          {
+            "family_name": "jang", 
+            "email": "keunj@design.upenn.edu", 
+            "id": "5", 
+            "name": "keun-hyuk"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jin_jaeho_assignment 1026.pdf"
+        ], 
+        "team_name": "jaeho jin", 
+        "thumbnail": "thumbnails/jin_jaeho.png", 
+        "team": [
+          {
+            "family_name": "jin", 
+            "email": "jinjaeho@design.upenn.edu", 
+            "id": "6", 
+            "name": "jaeho"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "khemchandani_ashish.pdf"
+        ], 
+        "team_name": "ashish khemchandani", 
+        "thumbnail": "thumbnails/khemchandani_ashish.png", 
+        "team": [
+          {
+            "family_name": "khemchandani", 
+            "email": "ashishkh@design.upenn.edu", 
+            "id": "7", 
+            "name": "ashish"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "knyazkina_ksenia.pdf"
+        ], 
+        "team_name": "ksenia knyazkina", 
+        "thumbnail": "thumbnails/knyazkina_ksenia.png", 
+        "team": [
+          {
+            "family_name": "knyazkina", 
+            "email": "kksenia@design.upenn.edu", 
+            "id": "8", 
+            "name": "ksenia"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "kwan_shin-yi.pdf"
+        ], 
+        "team_name": "shin-yi kwan", 
+        "thumbnail": "thumbnails/kwan_shin-yi.png", 
+        "team": [
+          {
+            "family_name": "kwan", 
+            "email": "kwans@design.upenn.edu", 
+            "id": "9", 
+            "name": "shin-yi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "lee_jee-eun.pdf"
+        ], 
+        "team_name": "jee-eun lee", 
+        "thumbnail": "thumbnails/lee_jee-eun.png", 
+        "team": [
+          {
+            "family_name": "lee", 
+            "email": "leejee@design.upenn.edu", 
+            "id": "10", 
+            "name": "jee-eun"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "maheshwari_rajika.pdf"
+        ], 
+        "team_name": "rajika maheshwari", 
+        "thumbnail": "thumbnails/maheshwari_rajika.png", 
+        "team": [
+          {
+            "family_name": "maheshwari", 
+            "email": "rajika@design.upenn.edu", 
+            "id": "11", 
+            "name": "rajika"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "mahthur_pegah.pdf"
+        ], 
+        "team_name": "pegah mahthur", 
+        "thumbnail": "thumbnails/mahthur_pegah.png", 
+        "team": [
+          {
+            "family_name": "mahthur", 
+            "email": "pegahmathur@gmail.com", 
+            "id": "12", 
+            "name": "pegah"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "peng_mingbo.pdf"
+        ], 
+        "team_name": "mingbo peng", 
+        "thumbnail": "thumbnails/peng_mingbo.png", 
+        "team": [
+          {
+            "family_name": "peng", 
+            "email": "mpen@design.upenn.edu", 
+            "id": "14", 
+            "name": "mingbo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "rong_shengliang.pdf"
+        ], 
+        "team_name": "shengliang rong", 
+        "thumbnail": "thumbnails/rong_shengliang.png", 
+        "team": [
+          {
+            "family_name": "rong", 
+            "email": "srong@design.upenn.edu", 
+            "id": "15", 
+            "name": "shengliang"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "vyas_janki.pdf"
+        ], 
+        "team_name": "janki vyas", 
+        "thumbnail": "thumbnails/vyas_janki.png", 
+        "team": [
+          {
+            "family_name": "vyas", 
+            "email": "jankiv@design.upenn.edu", 
+            "id": "16", 
+            "name": "janki"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "yao_xi.pdf"
+        ], 
+        "team_name": "xi yao", 
+        "thumbnail": "thumbnails/yao_xi.png", 
+        "team": [
+          {
+            "family_name": "yao", 
+            "email": "xiyao@design.upenn.edu", 
+            "id": "17", 
+            "name": "xi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "wan_yuntian.pdf"
+        ], 
+        "team_name": "yuntian wan", 
+        "thumbnail": "thumbnails/wan_yuntian.png", 
+        "team": [
+          {
+            "family_name": "wan", 
+            "email": "wyuntian@design.upenn.edu", 
+            "id": "18", 
+            "name": "yuntian"
+          }
+        ]
+      }
+    ], 
+    "name": "Daylighting II", 
+    "is_group_project": false
+  }, 
+  {
+    "reload": false, 
+    "folder": "indoor-comfort", 
+    "submissions": [
+      {
+        "files": [
+          "benghi_niccolo_energy simulation_final.pdf"
+        ], 
+        "team_name": "niccolo benghi", 
+        "thumbnail": "thumbnails/benghi_niccolo.png", 
+        "team": [
+          {
+            "family_name": "benghi", 
+            "email": "nbenghi@design.upenn.edu", 
+            "id": "2", 
+            "name": "niccolo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jin_jaeho_comfort design 2nd_maximum_1123.pdf"
+        ], 
+        "team_name": "jaeho jin", 
+        "thumbnail": "thumbnails/jin_jaeho.png", 
+        "team": [
+          {
+            "family_name": "jin", 
+            "email": "jinjaeho@design.upenn.edu", 
+            "id": "6", 
+            "name": "jaeho"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "knyazkina_ksenia_energy_daylight.3dm", 
+          "knyazkina_ksenia_energy_daylight.gh", 
+          "knyazkina_ksenia_energy_daylight.pdf"
+        ], 
+        "team_name": "ksenia knyazkina", 
+        "thumbnail": "thumbnails/knyazkina_ksenia.png", 
+        "team": [
+          {
+            "family_name": "knyazkina", 
+            "email": "kksenia@design.upenn.edu", 
+            "id": "8", 
+            "name": "ksenia"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "peng_mingbo_comfort.pdf"
+        ], 
+        "team_name": "mingbo peng", 
+        "thumbnail": "thumbnails/peng_mingbo.png", 
+        "team": [
+          {
+            "family_name": "peng", 
+            "email": "mpen@design.upenn.edu", 
+            "id": "14", 
+            "name": "mingbo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "rong_shengliang_integrated_daylight_and_energy_similation_final.3dm", 
+          "rong_shengliang_integrated_daylight_and_energy_similation_final.gh", 
+          "rong_shengliang_maximum comfort_v2.pdf"
+        ], 
+        "team_name": "shengliang rong", 
+        "thumbnail": "thumbnails/rong_shengliang.png", 
+        "team": [
+          {
+            "family_name": "rong", 
+            "email": "srong@design.upenn.edu", 
+            "id": "15", 
+            "name": "shengliang"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "vyas_janki_100% comfort design.pdf"
+        ], 
+        "team_name": "janki vyas", 
+        "thumbnail": "thumbnails/vyas_janki.png", 
+        "team": [
+          {
+            "family_name": "vyas", 
+            "email": "jankiv@design.upenn.edu", 
+            "id": "16", 
+            "name": "janki"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "yao_xi_natural ventilation.pdf"
+        ], 
+        "team_name": "xi yao", 
+        "thumbnail": "thumbnails/yao_xi.png", 
+        "team": [
+          {
+            "family_name": "yao", 
+            "email": "xiyao@design.upenn.edu", 
+            "id": "17", 
+            "name": "xi"
+          }
+        ]
+      }
+    ], 
+    "name": "Indoor Comfort", 
+    "is_group_project": false
+  }, 
+  {
+    "reload": false, 
+    "folder": "energy-and-daylighting", 
+    "submissions": [
+      {
+        "files": [
+          "albakr_majed_energydaylightsimulation.pdf"
+        ], 
+        "team_name": "majed albakr", 
+        "thumbnail": "thumbnails/albakr_majed.png", 
+        "team": [
+          {
+            "family_name": "albakr", 
+            "email": "malbakr@design.upenn.edu", 
+            "id": "0", 
+            "name": "majed"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "benghi_niccolo_energy simulation integrated_presentation.pdf", 
+          "benghi_niccolo_energy simulation_integrated.3dm", 
+          "benghi_niccolo_energy simulation_integrated.gh"
+        ], 
+        "team_name": "niccolo benghi", 
+        "thumbnail": "thumbnails/benghi_niccolo.png", 
+        "team": [
+          {
+            "family_name": "benghi", 
+            "email": "nbenghi@design.upenn.edu", 
+            "id": "2", 
+            "name": "niccolo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "bhatti_munazza_11.08_energysimulation.pdf"
+        ], 
+        "team_name": "munazza bhatti", 
+        "thumbnail": "thumbnails/bhatti_munazza.png", 
+        "team": [
+          {
+            "family_name": "bhatti", 
+            "email": "munazza@design.upenn.edu", 
+            "id": "3", 
+            "name": "munazza"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jin_jaeho_energy+daylighting_1109.pdf"
+        ], 
+        "team_name": "jaeho jin", 
+        "thumbnail": "thumbnails/jin_jaeho.png", 
+        "team": [
+          {
+            "family_name": "jin", 
+            "email": "jinjaeho@design.upenn.edu", 
+            "id": "6", 
+            "name": "jaeho"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "knyazkina_ksenia_1108 energy & daylight.pdf"
+        ], 
+        "team_name": "ksenia knyazkina", 
+        "thumbnail": "thumbnails/knyazkina_ksenia.png", 
+        "team": [
+          {
+            "family_name": "knyazkina", 
+            "email": "kksenia@design.upenn.edu", 
+            "id": "8", 
+            "name": "ksenia"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "maheshwari_rajika_energy simulation.pdf"
+        ], 
+        "team_name": "rajika maheshwari", 
+        "thumbnail": "thumbnails/maheshwari_rajika.png", 
+        "team": [
+          {
+            "family_name": "maheshwari", 
+            "email": "rajika@design.upenn.edu", 
+            "id": "11", 
+            "name": "rajika"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "peng_mingbo_energy_lighting.pdf"
+        ], 
+        "team_name": "mingbo peng", 
+        "thumbnail": "thumbnails/peng_mingbo.png", 
+        "team": [
+          {
+            "family_name": "peng", 
+            "email": "mpen@design.upenn.edu", 
+            "id": "14", 
+            "name": "mingbo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "rong_shengliang_integrated energy and daylight modeling.pdf"
+        ], 
+        "team_name": "shengliang rong", 
+        "thumbnail": "thumbnails/rong_shengliang.png", 
+        "team": [
+          {
+            "family_name": "rong", 
+            "email": "srong@design.upenn.edu", 
+            "id": "15", 
+            "name": "shengliang"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "vyas_janki_energy+daylight simulation report.pdf"
+        ], 
+        "team_name": "janki vyas", 
+        "thumbnail": "thumbnails/vyas_janki.png", 
+        "team": [
+          {
+            "family_name": "vyas", 
+            "email": "jankiv@design.upenn.edu", 
+            "id": "16", 
+            "name": "janki"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "yao_xi_energy simulation.pdf"
+        ], 
+        "team_name": "xi yao", 
+        "thumbnail": "thumbnails/yao_xi.png", 
+        "team": [
+          {
+            "family_name": "yao", 
+            "email": "xiyao@design.upenn.edu", 
+            "id": "17", 
+            "name": "xi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "wan_yuntian_integrated energy and daylight modeling assignment.pdf"
+        ], 
+        "team_name": "yuntian wan", 
+        "thumbnail": "thumbnails/wan_yuntian.png", 
+        "team": [
+          {
+            "family_name": "wan", 
+            "email": "wyuntian@design.upenn.edu", 
+            "id": "18", 
+            "name": "yuntian"
+          }
+        ]
+      }
+    ], 
+    "name": "Integrated energy and daylight", 
+    "is_group_project": false
+  }, 
+  {
+    "reload": false, 
+    "folder": "final-project", 
+    "submissions": [
+      {
+        "files": [
+          "albakr_majed_final project(ghfile).gh", 
+          "albakr_majed_finalboard_resubmission.pdf", 
+          "albakr_majed_finalproject(climatedata).gh", 
+          "albakr_majed_finalproject(rhinofile).3dm", 
+          "albakr_majed_finalproject_resubmission.pdf"
+        ], 
+        "team_name": "majed albakr", 
+        "thumbnail": "thumbnails/albakr_majed.png", 
+        "team": [
+          {
+            "family_name": "albakr", 
+            "email": "malbakr@design.upenn.edu", 
+            "id": "0", 
+            "name": "majed"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "bhatti_munazza_london blues_finlproposal.pdf", 
+          "bhatti_munazza_london design_final.pdf", 
+          "bhatti_munazza_londongrasshopperfile.gh", 
+          "bhatti_munazza_londongrasshopperfile_internalised.gh"
+        ], 
+        "team_name": "munazza bhatti", 
+        "thumbnail": "thumbnails/bhatti_munazza.png", 
+        "team": [
+          {
+            "family_name": "bhatti", 
+            "email": "munazza@design.upenn.edu", 
+            "id": "3", 
+            "name": "munazza"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jin_jaeho_final proposal progress.gh", 
+          "jin_jaeho_final proposal.pdf"
+        ], 
+        "team_name": "jaeho jin", 
+        "thumbnail": "thumbnails/jin_jaeho.png", 
+        "team": [
+          {
+            "family_name": "jin", 
+            "email": "jinjaeho@design.upenn.edu", 
+            "id": "6", 
+            "name": "jaeho"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "peng_mingbo_final board.pdf", 
+          "peng_mingbo_final.gh", 
+          "peng_mingbo_final2.pdf"
+        ], 
+        "team_name": "mingbo peng", 
+        "thumbnail": "thumbnails/peng_mingbo.png", 
+        "team": [
+          {
+            "family_name": "peng", 
+            "email": "mpen@design.upenn.edu", 
+            "id": "14", 
+            "name": "mingbo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "rong_shengliang_finalboard_1211.pdf", 
+          "rong_shengliang_finalreport_1211.pdf", 
+          "rong_shengliang_final_1211.3dm", 
+          "rong_shengliang_final_1211.3dm.rhl", 
+          "rong_shengliang_final_1211.gh"
+        ], 
+        "team_name": "shengliang rong", 
+        "thumbnail": "thumbnails/rong_shengliang.png", 
+        "team": [
+          {
+            "family_name": "rong", 
+            "email": "srong@design.upenn.edu", 
+            "id": "15", 
+            "name": "shengliang"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "vyas_janki_climate analysis report_11x17_r1.pdf", 
+          "vyas_janki_climate analysis report_r1.pdf", 
+          "vyas_janki_melbourne_climatedefinitions.gh", 
+          "vyas_janki_melbourne_climatemodel.3dm", 
+          "vyas_janki_melbourne_daylightdefinition.gh", 
+          "vyas_janki_melbourne_energydaylightdefinition_baseline.gh", 
+          "vyas_janki_melbourne_energydaylightdefinition_design270.gh", 
+          "vyas_janki_melbourne_energydaylightmodel.3dm", 
+          "vyas_janki_melbourne_glare analysis.gh"
+        ], 
+        "team_name": "janki vyas", 
+        "thumbnail": "thumbnails/vyas_janki.png", 
+        "team": [
+          {
+            "family_name": "vyas", 
+            "email": "jankiv@design.upenn.edu", 
+            "id": "16", 
+            "name": "janki"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "wan_yuntian_building performance simulation final report_second submission.pdf", 
+          "wan_yuntian_building performance simulation_final report_gh.gh", 
+          "wan_yuntian_building performance simulation_final report_rhino file.3dm"
+        ], 
+        "team_name": "yuntian wan", 
+        "thumbnail": "thumbnails/wan_yuntian.png", 
+        "team": [
+          {
+            "family_name": "wan", 
+            "email": "wyuntian@design.upenn.edu", 
+            "id": "18", 
+            "name": "yuntian"
+          }
+        ]
+      }
+    ], 
+    "name": "Final project", 
+    "is_group_project": false
+  }
+]

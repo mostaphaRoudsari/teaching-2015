@@ -1,0 +1,532 @@
+[
+    {
+        "family_name": "albakr", 
+        "email": "malbakr@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis", 
+                "thumbnail": "thumbnails/albakr_majed.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/albakr_majed.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/albakr_majed.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/albakr_majed.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/albakr_majed.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/albakr_majed.png"
+            }
+        ], 
+        "id": "0", 
+        "name": "majed"
+    }, 
+    {
+        "family_name": "bae", 
+        "email": "baeseung@design.upenn.edu", 
+        "submissions": [], 
+        "id": "1", 
+        "name": "seung-hyeok"
+    }, 
+    {
+        "family_name": "benghi", 
+        "email": "nbenghi@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis", 
+                "thumbnail": "thumbnails/benghi_niccolo.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/benghi_niccolo.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/benghi_niccolo.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/benghi_niccolo.png"
+            }, 
+            {
+                "folder": "indoor-comfort", 
+                "name": "Indoor Comfort", 
+                "thumbnail": "thumbnails/benghi_niccolo.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/benghi_niccolo.png"
+            }
+        ], 
+        "id": "2", 
+        "name": "niccolo"
+    }, 
+    {
+        "family_name": "bhatti", 
+        "email": "munazza@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis", 
+                "thumbnail": "thumbnails/bhatti_munazza.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/bhatti_munazza.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/bhatti_munazza.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/bhatti_munazza.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/bhatti_munazza.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/bhatti_munazza.png"
+            }
+        ], 
+        "id": "3", 
+        "name": "munazza"
+    }, 
+    {
+        "family_name": "fang", 
+        "email": "caifang@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis", 
+                "thumbnail": "thumbnails/fang_cai.png"
+            }
+        ], 
+        "id": "4", 
+        "name": "cai"
+    }, 
+    {
+        "family_name": "jang", 
+        "email": "keunj@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/jang_keun-hyuk.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/jang_keun-hyuk.png"
+            }
+        ], 
+        "id": "5", 
+        "name": "keun-hyuk"
+    }, 
+    {
+        "family_name": "jin", 
+        "email": "jinjaeho@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis", 
+                "thumbnail": "thumbnails/jin_jaeho.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/jin_jaeho.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/jin_jaeho.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/jin_jaeho.png"
+            }, 
+            {
+                "folder": "indoor-comfort", 
+                "name": "Indoor Comfort", 
+                "thumbnail": "thumbnails/jin_jaeho.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/jin_jaeho.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/jin_jaeho.png"
+            }
+        ], 
+        "id": "6", 
+        "name": "jaeho"
+    }, 
+    {
+        "family_name": "khemchandani", 
+        "email": "ashishkh@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/khemchandani_ashish.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/khemchandani_ashish.png"
+            }
+        ], 
+        "id": "7", 
+        "name": "ashish"
+    }, 
+    {
+        "family_name": "knyazkina", 
+        "email": "kksenia@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/knyazkina_ksenia.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/knyazkina_ksenia.png"
+            }, 
+            {
+                "folder": "indoor-comfort", 
+                "name": "Indoor Comfort", 
+                "thumbnail": "thumbnails/knyazkina_ksenia.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/knyazkina_ksenia.png"
+            }
+        ], 
+        "id": "8", 
+        "name": "ksenia"
+    }, 
+    {
+        "family_name": "kwan", 
+        "email": "kwans@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/kwan_shin-yi.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/kwan_shin-yi.png"
+            }
+        ], 
+        "id": "9", 
+        "name": "shin-yi"
+    }, 
+    {
+        "family_name": "lee", 
+        "email": "leejee@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/lee_jee-eun.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/lee_jee-eun.png"
+            }
+        ], 
+        "id": "10", 
+        "name": "jee-eun"
+    }, 
+    {
+        "family_name": "maheshwari", 
+        "email": "rajika@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis", 
+                "thumbnail": "thumbnails/maheshwari_rajika.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/maheshwari_rajika.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/maheshwari_rajika.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/maheshwari_rajika.png"
+            }
+        ], 
+        "id": "11", 
+        "name": "rajika"
+    }, 
+    {
+        "family_name": "mahthur", 
+        "email": "pegahmathur@gmail.com", 
+        "submissions": [
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/mahthur_pegah.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/mahthur_pegah.png"
+            }
+        ], 
+        "id": "12", 
+        "name": "pegah"
+    }, 
+    {
+        "family_name": "oskierko-jeznacki", 
+        "email": "eosk@design.upenn.edu", 
+        "submissions": [], 
+        "id": "13", 
+        "name": "evan"
+    }, 
+    {
+        "family_name": "peng", 
+        "email": "mpen@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis", 
+                "thumbnail": "thumbnails/peng_mingbo.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/peng_mingbo.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/peng_mingbo.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/peng_mingbo.png"
+            }, 
+            {
+                "folder": "indoor-comfort", 
+                "name": "Indoor Comfort", 
+                "thumbnail": "thumbnails/peng_mingbo.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/peng_mingbo.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/peng_mingbo.png"
+            }
+        ], 
+        "id": "14", 
+        "name": "mingbo"
+    }, 
+    {
+        "family_name": "rong", 
+        "email": "srong@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis", 
+                "thumbnail": "thumbnails/rong_shengliang.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/rong_shengliang.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/rong_shengliang.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/rong_shengliang.png"
+            }, 
+            {
+                "folder": "indoor-comfort", 
+                "name": "Indoor Comfort", 
+                "thumbnail": "thumbnails/rong_shengliang.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/rong_shengliang.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/rong_shengliang.png"
+            }
+        ], 
+        "id": "15", 
+        "name": "shengliang"
+    }, 
+    {
+        "family_name": "vyas", 
+        "email": "jankiv@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/vyas_janki.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/vyas_janki.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/vyas_janki.png"
+            }, 
+            {
+                "folder": "indoor-comfort", 
+                "name": "Indoor Comfort", 
+                "thumbnail": "thumbnails/vyas_janki.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/vyas_janki.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/vyas_janki.png"
+            }
+        ], 
+        "id": "16", 
+        "name": "janki"
+    }, 
+    {
+        "family_name": "yao", 
+        "email": "xiyao@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis", 
+                "thumbnail": "thumbnails/yao_xi.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/yao_xi.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/yao_xi.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/yao_xi.png"
+            }, 
+            {
+                "folder": "indoor-comfort", 
+                "name": "Indoor Comfort", 
+                "thumbnail": "thumbnails/yao_xi.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/yao_xi.png"
+            }
+        ], 
+        "id": "17", 
+        "name": "xi"
+    }, 
+    {
+        "family_name": "wan", 
+        "email": "wyuntian@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis", 
+                "thumbnail": "thumbnails/wan_yuntian.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/wan_yuntian.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/wan_yuntian.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/wan_yuntian.png"
+            }, 
+            {
+                "folder": "energy-and-daylighting", 
+                "name": "Integrated energy and daylight", 
+                "thumbnail": "thumbnails/wan_yuntian.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/wan_yuntian.png"
+            }
+        ], 
+        "id": "18", 
+        "name": "yuntian"
+    }
+]
